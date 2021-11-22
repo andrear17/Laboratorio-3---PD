@@ -1,5 +1,5 @@
-# Laboratorio2-PD
-Lab2 - Product Development
+# Laboratorio3-PD
+Laboratorio 3 - Product Development
 
 Variable	Definition	        Key
 survival	Survival	        0 = No, 1 = Yes
